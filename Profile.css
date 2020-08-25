@@ -1,0 +1,12 @@
+body{
+    padding-top: 70px; 
+}
+
+.coll{color: #0044cc;}
+.page-header{border-bottom-color: blue;}
+.form-control{
+    width: 400px;
+}
+.form-horizontal{
+    margin: 50px 270px; 
+}
